@@ -98,9 +98,14 @@ const MarkdownViewer: React.FC<MarkdownViewerProps> = ({
     return (
         <>
             <div className="current-file-display">
-                <svg fill="currentColor" viewBox="0 0 16 16" width="14" height="14" aria-hidden="true" style={{ marginRight: '8px', flexShrink: 0 }}>
-                    <path d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6.19l-4.44-4.44H3.75zM3.5 1.75c0-.138.112-.25.25-.25h5L12.5 5.5v7.75a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25V1.75zM8.75 5.5a.75.75 0 00-.75.75v1.5a.75.75 0 001.5 0v-1.5a.75.75 0 00-.75-.75z"></path>
-                </svg>
+                <img
+                    src="/current-document.svg"
+                    width="20"
+                    height="20"
+                    aria-hidden="true"
+                    style={{ marginRight: '8px', flexShrink: 0 }}
+                    alt=""
+                />
                 {getDisplayName(selectedFile)}
             </div>
 
