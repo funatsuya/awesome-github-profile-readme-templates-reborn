@@ -12,7 +12,7 @@ This project is a "reborn" version of the (largely unmaintained) [awesome-github
 
 You can browse all templates in our interactive web viewer:
 
-**[➡️ Browse Templates Now](https://funatsuya.github.io/awesome-github-profile-readme-templates-reborn/)**
+**[➡️ Browse Templates Now](https://awesome-github-profile-readme-templ.vercel.app/)**
 
 ## 🤝 Contributing
 
@@ -27,3 +27,11 @@ We know that making your first pull request can feel intimidating. This reposito
 ## ⭐ Show Your Support
 
 Don't forget to hit the :star: if you like this repo.
+
+<a href="https://www.buymeacoffee.com/tradeagency" target="_blank">
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDUwYjAyNmN1NGVvYzN3YjF3b3I0cnB4cmV0NnM3MWV2dHgyZXJqaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/o7RZbs4KAA6tvM4H6j/giphy.gif" 
+    alt="Buy Me a Coffee" 
+    width="400"
+  >
+</a>

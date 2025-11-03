@@ -114,6 +114,10 @@ function App() {
           contributorsCount={contributorsCount}
         />
       </main>
+
+      <footer className="app-footer">
+        © {new Date().getFullYear()} Trade Agency. All Rights Reserved.
+      </footer>
     </div>
   );
 }
