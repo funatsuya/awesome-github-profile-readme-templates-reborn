@@ -72,3 +72,8 @@ Technologies that I've been learning and picked up along my programming journey.
 
 ![Visitors Stat](https://komarev.com/ghpvc/?username=Xanthus58)
 [![wakatime](https://wakatime.com/badge/user/0b1b6854-9980-4101-a28a-0b148d8403d6.svg)](https://wakatime.com/@0b1b6854-9980-4101-a28a-0b148d8403d6)
+
+---
+<p align="right">
+  <em>— Added by <a href="[https://github.com/zephira58](https://github.com/zephira58)">zephira58</a></em>
+</p>

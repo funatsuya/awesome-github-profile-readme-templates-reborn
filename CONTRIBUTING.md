@@ -35,9 +35,9 @@ To ensure a smooth process, please follow these steps:
 
   ```markdown
   ---
-  <a href="https://github.com/YOUR-USERNAME">
-  <img src="https://img.shields.io/badge/Credit-YOUR-USERNAME-blue?style=flat&logo=github" alt="Credit: YOUR-USERNAME">
-  </a>
+   <p align="right">
+     <em>— Added by <a href="[https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)">YOUR-USERNAME</a></em>
+   </p>
   ```
 
 ### Step 3: Save and Submit
