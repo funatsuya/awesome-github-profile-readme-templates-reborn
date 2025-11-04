@@ -78,5 +78,5 @@ Other: AWS, Docker, Git, Vite, Wordpress, Shopify, Paypal, Vim,
 
 ---
 <p align="right">
-    <em>— Added by <a href="[https://github.com/funatsuya](https://github.com/funatsuya)">funatsuya</a></em>
-</p></a>
+  <em>— Added by <a href="https://github.com/funatsuya">funatsuya</a></em>
+</p>

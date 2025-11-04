@@ -57,5 +57,5 @@
 
 ---
 <p align="right">
-  <em>— Added by <a href="[https://github.com/Anton-dev3306](https://github.com/Anton-dev3306)">Anton-dev3306</a></em>
+  <em>— Added by <a href="https://github.com/Anton-dev3306">Anton-dev3306</a></em>
 </p>

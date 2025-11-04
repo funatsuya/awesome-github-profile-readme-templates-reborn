@@ -75,5 +75,5 @@ Technologies that I've been learning and picked up along my programming journey.
 
 ---
 <p align="right">
-  <em>— Added by <a href="[https://github.com/zephira58](https://github.com/zephira58)">zephira58</a></em>
+  <em>— Added by <a href="https://github.com/zephira58">zephira58</a></em>
 </p>
