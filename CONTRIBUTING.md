@@ -14,13 +14,13 @@ To ensure a smooth process, please follow these steps:
 2. **Clone** your fork to your local machine:
 
  ```bash
- git clone [https://github.com/YOUR-USERNAME/awesome-github-profile-readme-templates-reborn.git](https://github.com/YOUR-USERNAME/awesome-github-profile-readme-templates-reborn.git)
+ git clone https://github.com/YOUR-USERNAME/awesome-github-profile-readme-templates-reborn.git
  ```
 
 3. **Create a new branch** for your changes. Use a descriptive name:
 
   ```bash
-  git checkout -b add-your-username
+  git checkout -b add-YOUR-USERNAME
   ```
 
 ### Step 2: Add Your README Template
@@ -35,9 +35,9 @@ To ensure a smooth process, please follow these steps:
 
   ```markdown
   ---
-  <a href="https://github.com/YOUR-USERNAME">
-  <img src="https://img.shields.io/badge/Credit-YOUR-USERNAME-blue?style=flat&logo=github" alt="Credit: YOUR-USERNAME">
-  </a>
+  <p align="right">
+    <em>— Added by <a href="https://github.com/YOUR-USERNAME">YOUR-USERNAME</a></em>
+  </p>
   ```
 
 ### Step 3: Save and Submit

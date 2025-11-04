@@ -77,6 +77,6 @@ Other: AWS, Docker, Git, Vite, Wordpress, Shopify, Paypal, Vim,
 </div>
 
 ---
-<a href="https://github.com/funatsuya">
-<img src="https://img.shields.io/badge/Credit-funatsuya-blue?style=flat&logo=github" alt="Credit: funatsuya">
-</a>
+<p align="right">
+  <em>— Added by <a href="https://github.com/funatsuya">funatsuya</a></em>
+</p>

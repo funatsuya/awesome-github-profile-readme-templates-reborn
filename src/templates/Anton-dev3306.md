@@ -55,6 +55,6 @@
     </a>
 </div>
 ---
-<a href="https://github.com/Anton-dev3306">
-<img src="https://img.shields.io/badge/Credit-Anton-dev3306-blue?style=flat&logo=github" alt="Credit: Anton-dev3306">
-</a>
+<p align="right">
+  <em>— Added by <a href="https://github.com/Anton-dev3306">Anton-dev3306</a></em>
+</p>
