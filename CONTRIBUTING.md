@@ -10,14 +10,26 @@ To ensure a smooth process, please follow these steps:
 
 ### Step 1: Get Your Local Copy Ready
 
-1. **Fork** this repository.
-2. **Clone** your fork to your local machine:
+1.  **Fork** this repository.
+2.  **Clone** your fork to your local machine:
 
- ```bash
- git clone https://github.com/YOUR-USERNAME/awesome-github-profile-readme-templates-reborn.git
- ```
+  ```bash
+    git clone https://github.com/YOUR-USERNAME/awesome-github-profile-readme-templates-reborn.git
+  ``` 
 
-3. **Create a new branch** for your changes. Use a descriptive name:
+3.  **Navigate** into the cloned repository:
+
+  ```bash
+  cd awesome-github-profile-readme-templates-reborn
+  ```
+
+4.  **Switch to the `dev` branch.** This is the primary development branch you must base your work on.
+
+  ```bash
+  git checkout dev
+  ```
+
+5.  **Create a new branch** for your changes (branching *from* `dev`). Use a descriptive name:
 
   ```bash
   git checkout -b add-YOUR-USERNAME
@@ -25,38 +37,39 @@ To ensure a smooth process, please follow these steps:
 
 ### Step 2: Add Your README Template
 
-1. Navigate to the `src/templates/` folder.
-2. Create a **new Markdown file**.
-3. The filename **must** be your GitHub username, followed by `.md`.
+1.  Navigate to the `src/templates/` folder.
+2.  Create a **new Markdown file**.
+3.  The filename **must** be your GitHub username, followed by `.md`.
   * *Example:* `funatsuya.md`
 
-4. Copy and paste the content of your GitHub profile README into this new file.
-5. **Important:** At the very **bottom** of the file, you must add a credit link pointing back to your profile. Use a horizontal rule (`---`) to separate it from your content:
+4.  Copy and paste the content of your GitHub profile README into this new file.
+5.  **Important:** At the very **bottom** of the file, you must add a credit link pointing back to your profile. Use a horizontal rule (`---`) to separate it from your content:
 
   ```markdown
   ---
   <p align="right">
-    <em>— Added by <a href="https://github.com/YOUR-USERNAME">YOUR-USERNAME</a></em>
+    <em>— Added by <a href="[https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)">YOUR-USERNAME</a></em>
   </p>
   ```
 
 ### Step 3: Save and Submit
 
-1. Save your file.
-2. Commit your changes with a clear message that includes your username:
+1.  Save your file.
+2.  Commit your changes with a clear message that includes your username:
 
   ```bash
   git add .
   git commit -m "Add template: YOUR-USERNAME"
   ```
 
-3. Push your new branch to your fork on GitHub:
+3.  Push your new branch to your fork on GitHub:
 
   ```bash
-  git push origin add-your-username
+  git push origin add-YOUR-USERNAME
   ```
 
-4. Go to the original repository on GitHub and **submit a Pull Request (PR)**.
+4.  Go to the original repository on GitHub and **submit a Pull Request (PR)**.
+5.  **IMPORTANT:** When creating the PR, ensure the **base branch** (the branch you are merging into) is set to **`dev`**, not `main`.
 
 ### Step 4: Review and Merge
 
@@ -66,7 +79,7 @@ That's it! Once you've submitted your PR:
 * A maintainer will review your submission as soon as possible.
 * We may request small changes to ensure quality and consistency.
 
-Once approved, your template will be merged and will appear in the live viewer.
+Once approved, your template will be merged into `dev` and eventually make its way into the `main` branch and the live viewer.
 
 ## Other Ways to Contribute
 
