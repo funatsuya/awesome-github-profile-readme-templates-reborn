@@ -114,5 +114,5 @@ I'm currently focusing on my skills in **React**, **UI/UX best practices**, and 
 
 ---
 <p align="right">
-  <em>— Added by <a href="[https://github.com/Namnika](https://github.com/Namnika)">Namnika Janbandhu</a></em>
+  <em>— Added by <a href="https://github.com/Namnika">Namnika Janbandhu</a></em>
 </p>
