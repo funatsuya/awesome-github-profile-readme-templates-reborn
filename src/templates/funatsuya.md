@@ -71,7 +71,7 @@ Other: AWS, Docker, Git, Vite, Wordpress, Shopify, Paypal, Vim,
 <img align="center" src="https://github-readme-stats-khaki-seven-34.vercel.app/api?username=funatsuya&count_private=true&theme=ambient_gradient&show_icons=true&include_all_commits=true" alt="TradeAgency's github stats"></a>
 
 <a href="https://github.com/funatsuya/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=funatsuya&theme=ambient_gradient&count_private=true&include_all_commits=true" alt="Top Langs">
+<img align="center" src="https://github-readme-stats-khaki-seven-34.vercel.app/api/top-langs/?username=funatsuya&theme=ambient_gradient&count_private=true" alt="Top Langs">
 </a>
 
 </div>
